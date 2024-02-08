@@ -1,2 +1,2 @@
 # myRepo
-myRepo repository
+myRepo repository for git command demonstration
